@@ -1,5 +1,5 @@
 # Redes_QRNG
-Implementación en Python de las redes utilizadas para el análisis del QRNG
+Implementación en Python de las redes utilizadas para el análisis del QRNG.
 Los archivos de código son notebooks de jupyter 
 
 El repositorio cuenta con 3 carpetas principales, LCG, Data Cruda y Data Post-Procesada
