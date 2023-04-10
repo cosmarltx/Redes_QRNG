@@ -22,6 +22,6 @@ trabajando con la red prealimentada, la red LSTM o la red recurrente convolucion
 # Data Post-Procesada
 En esta carpeta pueden hallarse las 3 redes que se emplearon para el análisis de la data post-procesada.
 También se cuenta con el archivo de texto data_1bit, el cual contiene los datos post-procesados del QRNG en formato binario.
-Similarmente al caso de la data cruda, este archivo debe estar en el mismo directorio que los archivos de código.
+Similar al caso de la data cruda, este archivo debe estar en el mismo directorio que los archivos de código.
 
 En el análisis de estos datos no se realizó prueba estadística, por lo que no hay un archivo de texto correspondiente para llevarla a cabo.
